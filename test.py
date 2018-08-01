@@ -37,4 +37,4 @@ r = requests.get("http://www.baidu.com")
 
 
 #将下载到的内容打印：
-print(r.text);
+print(r.text)
